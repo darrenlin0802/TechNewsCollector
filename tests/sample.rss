@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+<title>Sample Feed</title>
+<description>Test Feed</description>
+<link>http://example.com/</link>
+<item>
+<title>Tesla (TSLA) unveils new battery</title>
+<link>http://example.com/tesla</link>
+<pubDate>Fri, 01 Mar 2024 12:00:00 GMT</pubDate>
+<description>Tesla (TSLA) has announced a new battery technology.</description>
+</item>
+<item>
+<title>General Tech News</title>
+<link>http://example.com/general</link>
+<pubDate>Sat, 02 Mar 2024 12:00:00 GMT</pubDate>
+<description>Some general tech news.</description>
+</item>
+</channel>
+</rss>
